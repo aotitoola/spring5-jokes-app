@@ -6,7 +6,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
- * @author Aanuoluwa Otitoola <aotitoola@ecobank.com>
+ * @author Aanuoluwa Otitoola
  * @since 15/06/2019 Sat
  */
 
